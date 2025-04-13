@@ -7,8 +7,6 @@ Saya Mochamad Zidan Rusdhiana dengan NIM 2305464 mengerjakan Tugas Praktikum 6 d
 
 ### Struktur Kelas
 
-Proyek ini terdiri dari beberapa kelas utama yang saling berhubungan:
-
 1. **App.java**
    - Kelas utama yang berisi method `main()` untuk memulai aplikasi
    - Menggunakan SwingUtilities untuk menjalankan aplikasi pada Event Dispatch Thread
@@ -79,3 +77,8 @@ Proyek ini terdiri dari beberapa kelas utama yang saling berhubungan:
 ![GUI menu](https://github.com/user-attachments/assets/26b9c16d-78b0-4a1d-a7a9-70579b137916)
 ![Play](https://github.com/user-attachments/assets/aaa35221-7441-4cf8-bdbc-d05d585fffca)
 ![Game Over](https://github.com/user-attachments/assets/b204cc30-a025-4527-8bfe-7a6e59b4d784)
+
+
+https://github.com/user-attachments/assets/06050530-7455-4de0-823e-a1fec03fe036
+
+
